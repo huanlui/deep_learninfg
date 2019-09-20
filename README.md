@@ -1,4 +1,4 @@
-# deep_learninfg
+# Deep learning
 
 Hola,
 
